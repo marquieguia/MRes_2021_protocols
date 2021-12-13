@@ -206,7 +206,7 @@ def run():
 
 ############# CALLING FUNCTIONS ################
 
-neat_grid = neat_grid_info('tree.txt')
+neat_grid = neat_grid_info('tree_Marie_Antronette.txt')
 
 adapted_coor_dic = decodifier(neat_grid)
 
